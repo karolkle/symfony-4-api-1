@@ -2,8 +2,6 @@
 
 Setup
 
-If you've just downloaded the code, congratulations!!
-
 To get it working, follow these steps:
 
 Download Composer dependencies
@@ -16,7 +14,7 @@ composer install
 
 Start the built-in web server
 
-You can use Nginx or Apache, but the built-in web server works great:
+You can use Apache, but the built-in web server works great:
 
 php -S 127.0.0.1:8000 -t public
 
